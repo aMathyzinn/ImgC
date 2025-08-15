@@ -271,7 +271,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 - **Issues**: [GitHub Issues](https://github.com/aMathyzinn/ImgC/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/aMathyzinn/ImgC/discussions)
-- **Email**: [aMathyzinn](https://github.com/aMathyzinn)
+- **Email**: [aMathyzinn](contato@amathyzin.com)
 
 ## ⭐ Se Gostou, Deixe uma Estrela!
 
