@@ -89,8 +89,8 @@ Um conversor de imagens moderno, rápido e intuitivo construído com Next.js 14 
 
 ### **1. Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/imgconvert.git
-cd imgconvert
+git clone https://github.com/aMathyzinn/ImgC.git
+cd ImgC
 ```
 
 ### **2. Instale as dependências**
@@ -257,6 +257,8 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
+**© 2025 aMathyzinn. Todos os direitos reservados.**
+
 ## 🙏 Agradecimentos
 
 - **Next.js Team** - Framework incrível
@@ -267,9 +269,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/imgconvert/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/seu-usuario/imgconvert/discussions)
-- **Email**: seu-email@exemplo.com
+- **Issues**: [GitHub Issues](https://github.com/aMathyzinn/ImgC/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/aMathyzinn/ImgC/discussions)
+- **Email**: [aMathyzinn](https://github.com/aMathyzinn)
 
 ## ⭐ Se Gostou, Deixe uma Estrela!
 
@@ -277,6 +279,6 @@ Se este projeto te ajudou ou você gostou dele, considere dar uma ⭐ no GitHub!
 
 ---
 
-**Desenvolvido com ❤️ e ☕ por [Seu Nome]**
+**Desenvolvido com ❤️ e ☕ por aMathyzinn**
 
 *Transformando pixels, uma imagem por vez!* 🎨✨
