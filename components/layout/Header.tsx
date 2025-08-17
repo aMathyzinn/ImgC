@@ -51,7 +51,7 @@ export default function Header() {
           </button>
 
           <a
-            href="https://github.com/aMathyzin"
+            href="https://github.com/aMathyzinn"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 px-3 py-2 rounded-lg bg-slate-700 hover:bg-slate-600 transition-colors text-white"

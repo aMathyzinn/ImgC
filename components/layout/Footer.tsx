@@ -19,7 +19,7 @@ export default function Footer() {
               Licença
             </a>
             <a
-              href="https://github.com/aMathyzin/ImgC"
+              href="https://github.com/aMathyzinn/ImgC"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-xl border border-slate-700 bg-slate-800/60 hover:bg-slate-800 text-slate-200 text-sm px-4 py-3 transition-colors text-center"
