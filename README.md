@@ -227,21 +227,21 @@ const [state, dispatch] = useReducer(reducer, initialState);
 
 ## 🗺️ Roadmap
 
-**1.1**
+**0.8**
 
 * [ ] TIFF e GIF
 * [ ] Filtros e efeitos
 * [ ] Compressão inteligente
 * [ ] Histórico refinado
 
-**1.2**
+**0.9**
 
 * [ ] API REST para lote
 * [ ] Integrações com nuvem
 * [ ] Plugins para editores
 * [ ] Metadados EXIF
 
-**2.0**
+**1.0**
 
 * [ ] Editor embutido
 * [ ] Vídeo básico
