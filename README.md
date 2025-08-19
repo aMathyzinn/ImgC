@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:00d4ff&height=120&text=IMGConvert&fontColor=10FFD0&fontSize=48&desc=Conversor%20de%20Imagens%20Profissional%20%E2%80%94%20100%%20local&descAlign=50&descAlignY=75" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:00d4ff&height=120&text=IMGConvert&fontColor=10FFD0&fontSize=48&desc=Conversor%20de%20Imagens%20Profissional%20%E2%80%94%20100%%local&descAlign=50&descAlignY=75" alt="Banner"/>
 </p>
 
 <p align="center">
