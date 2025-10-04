@@ -96,8 +96,6 @@
 
 ## 🖼️ Preview Rápido
 
-> Substitua os placeholders por imagens reais do seu app.
-
 <p align="center">
   <img src="https://github.com/aMathyzinn/ImgC/assets/placeholder-screenshot-1.png" alt="Screenshot 1" width="85%" />
 </p>
